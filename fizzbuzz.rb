@@ -11,3 +11,6 @@ def FizzBuzz(x)
 end
 
 FizzBuzz(15)
+FizzBuzz(4)
+FizzBuzz(10)
+FizzBuzz(9)
